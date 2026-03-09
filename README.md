@@ -68,6 +68,7 @@ Mesmo considerando as faixas de faturamento e os motivos de nível 1, a ausênci
 Foram identificados 4 clusters com os seguintes perfis:
 
 <img width="1390" height="790" alt="image" src="https://github.com/user-attachments/assets/05eab188-cebc-419e-a6de-b896935b6ca3" />
+
 | Cluster | Principais Motivos Associados                                                     | Faixas de Faturamento mais Presentes                                                                 |
 |--------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 0      | Bug, Sugestão, Chat Cliente Ausente, Campanhas, Solicitação, Instabilidade        | Aparece com mais frequência nas faixas altas (ex.: "L. 200 a 250k", "M. 250 a 400k", "N. 400k+")     |
